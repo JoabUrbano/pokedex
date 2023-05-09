@@ -1,0 +1,23 @@
+.pagina{
+    min-block-size: 36em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+}
+
+.form{
+    padding: 1em;
+}
+
+.consult{
+    color: #fff;
+    list-style: none;
+    padding: 0em;
+    background-color: #666;
+    border-radius: 12px;
+    width: 75%;
+    text-align: center;
+    font-size: large;
+}

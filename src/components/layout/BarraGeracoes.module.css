@@ -1,0 +1,19 @@
+.page{
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo{
+    list-style: none;
+    display: flex;
+    padding: 0em;
+}
+
+.corpo li{
+    padding: 0.5em;
+    border-style:solid;
+    border-width:1px;
+    margin: 0;
+    background-color: #999;
+    color: #fff;
+}
