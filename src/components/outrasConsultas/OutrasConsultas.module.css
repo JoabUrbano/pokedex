@@ -1,0 +1,7 @@
+.page{
+    background-color: #eee;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-block-size: 36em;
+}

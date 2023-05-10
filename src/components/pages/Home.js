@@ -11,9 +11,9 @@ import styles from "./Home.module.css"
 function Home(){
     return(
         <div className={styles.home}>
-            <Image image={pokemon01} alt="Pokemon01" />
+            <Link to="/consultapikachu"><Image image={pokemon01} alt="Pokemon01" /></Link>
             <Link to="/listainiciais"><Image image={pokedex} alt="Pokedex" /></Link>
-            <Image image={pokemon02} alt="Pokemon02" />
+            <Link to="/consultamuchlax"><Image image={pokemon02} alt="Pokemon02" /></Link>
         </div>
     )
 }

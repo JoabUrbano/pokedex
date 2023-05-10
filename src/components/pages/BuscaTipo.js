@@ -36,7 +36,7 @@ function BuscaTipo() {
                 </ul>
             </li>
             <li>
-                <span>Forte contra</span>
+              <span>Forte contra</span>
                 <ul className={styles.second_consult2}>
                     {data.damage_relations.double_damage_to.map((item) => (
                         <li key={item.name}>{item.name}</li>

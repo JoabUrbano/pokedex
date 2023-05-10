@@ -5,3 +5,7 @@
     display: flex;
     background-color: #eee;
 }
+.home a:hover{
+    background-color: #bbb;
+    border-radius: 12px;
+}

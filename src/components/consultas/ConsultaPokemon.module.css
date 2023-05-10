@@ -2,7 +2,6 @@
     align-items: center;
     justify-content: center;
     display: flex;
-    background-color: #eee;
     padding: 0.3em;
 }
 
@@ -11,4 +10,5 @@
     list-style: none;
     background-color: #888;
     border-radius: 12px;
+    text-align: center;
 }

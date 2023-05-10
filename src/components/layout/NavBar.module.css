@@ -16,11 +16,14 @@
 }
 
 .item{
-    margin-right: 1em;
+    margin-right: 1.3em;
 }
 
 .item a{
     color: #fff;
     font-size: large;
     text-decoration: none;
+}
+.item a:hover{
+    color: #ffbb33;
 }

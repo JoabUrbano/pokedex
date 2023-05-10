@@ -11,6 +11,7 @@ function NavBar(){
                 <li className={styles.item}><Link to="/">Home</Link></li>
                 <li className={styles.item}><Link to="/buscanome">Buscar Pokemon Por Nome</Link></li>
                 <li className={styles.item}><Link to="/buscatipo">Buscar Por Tipo</Link></li>
+                <li className={styles.item}><Link to="/sobre">Sobre</Link></li>
             </ul>
         </div>
     )
