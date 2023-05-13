@@ -1,0 +1,8 @@
+.page{
+    min-block-size: 36em;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+    padding: 0.3em;
+    text-align: center;
+}

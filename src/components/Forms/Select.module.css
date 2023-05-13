@@ -1,0 +1,12 @@
+.form_control{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.form_control select{
+    font-size: 22px;
+    text-align: center;
+    color: #888;
+}

@@ -1,0 +1,14 @@
+.footer{
+    background-color: #222;
+    min-block-size: 5em;
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer span{
+    color: #ff8800;
+    padding-left: 0.5em;
+}

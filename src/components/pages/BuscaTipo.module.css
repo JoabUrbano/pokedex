@@ -1,0 +1,41 @@
+.page{
+    min-block-size: 36em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #eee;
+    flex-direction: column;
+    padding: 1em;
+}
+
+.form{
+    padding: 1em;
+}
+
+.consult{
+    color: #fff;
+    list-style: none;
+    padding: 0em;
+    background-color: #666;
+    border-radius: 12px;
+    width: 45%;
+    text-align: center;
+    font-size: large;
+    font-size: 22px;
+}
+
+.consult li span{
+    color: #ffbb33;
+}
+
+.second_consult1{
+    color: #ff5555;
+    list-style: none;
+    padding: 0em;
+}
+
+.second_consult2{
+    color: #55ff55;
+    list-style: none;
+    padding: 0em;
+}
